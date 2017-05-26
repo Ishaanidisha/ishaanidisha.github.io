@@ -4,12 +4,32 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a graduate student in the Electrical and Computer Engineering Department. I have an inclination towards Cybersecurity. As a Research Assistant I am enthusiastic about cybersecurity and cyber attacks taking place all over the world and am zealous about developing techniques that would provide solutions for the same. 
 
-### More Information
+### Skills I mastered in Web Applications Security
 
-A place to include any other types of information that you'd like to include about yourself.
+* PHP Scripting   
+
+* SQLite Database
+
+* MongoDB
+
+* AngularJS
+
+* Session Hijacking
+
+* XSS attacks
+
+* SQL injection
+
+* Project Management
+
+* Basic Cryptography
+
+* NodeJS
+
+* Role Based Access Control
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ishaani@udel.edu](mailto:ishaani@udel.edu)
